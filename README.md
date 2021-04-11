@@ -17,5 +17,5 @@ Use the JSON files to present specific challenges to making the algorithm work w
 [Instagram](https://www.instagram.com/fullstack11235/) • 
 [Facebook](https://www.facebook.com/jonpchristie) • 
 [Twitter](https://twitter.com/jonpchristie) • 
-[Spotify](open.spotify.com/artist/07S7aLfxH…mRTOqdiiYnWBDBTw) • 
+[Spotify](https://tinyurl.com/ju8mp886) • 
 [SoundCloud](https://soundcloud.com/jonchristie)
