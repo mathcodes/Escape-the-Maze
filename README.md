@@ -2,7 +2,7 @@
 
 ## You will want Scape holding your hand next time you are lost!!! IT would literally work in a cornmaze!
 
-##TEST IT OUT YOURSELF:
+## TEST IT OUT YOURSELF:
 
 Using the files provided, you can see an animated version alongside of the code on [Reeborg's World](https://reeborg.ca/index_en.html).
 
